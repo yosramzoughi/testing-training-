@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test connection cas nn passant user name erroné</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b4a4282-db81-47cc-b269-be18ed185018</testCaseGuid>
+</TestCaseEntity>
